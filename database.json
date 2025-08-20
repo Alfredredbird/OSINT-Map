@@ -351,6 +351,9 @@
             "License Plates 🪧" : {
                 "🌍 PlatesMania": "http://platesmania.com/?&lang=en"
             }
+            "Ship Wrecks 🛳️": {
+                "Open-Wrecks 🛳️": "https://github.com/Alfredredbird/Open-Wrecks"
+            }
         },
         "IP Addresses 🔢": {
             "📒 IP Subnet by regions": "https://github.com/ipverse/rir-ip",
